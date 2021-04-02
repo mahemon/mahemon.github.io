@@ -1,6 +1,6 @@
 ---
 title: "Organizing Committee Member"
-collection: service
+collection: services
 venue: ""
 date: 2020-02-14
 ---
