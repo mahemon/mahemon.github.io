@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Ensemble method based architecture using random forest importance to predict employee's turn over"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2020-Ensemble method based architecture using random forest importance to predict employee's turn over
+excerpt: 'Author: Md. Anwar Hossen, Emran Hossain, Zahereel Ishwar Abdul Khalib, Fatema Siddika'
+date: 2020-9-19
+venue: 'The 5th International Conference on Electronic Design (ICED), Malaysia. Journal of Physics: Conference Series'
+paperurl: 'https://iopscience.iop.org/article/10.1088/1742-6596/1755/1/012039'
+
+citation: 'Md. Anwar Hossen <i>et al</i> 2021 <i>J. Phys.: Conf. Ser.</i> 1755 012039.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://iopscience.iop.org/article/10.1088/1742-6596/1755/1/012039/pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Md. Anwar Hossen <i>et al</i> 2021 <i>J. Phys.: Conf. Ser.</i> 1755 012039.
