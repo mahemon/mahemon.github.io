@@ -1,0 +1,20 @@
+icrest21:
+    acronym: ICREST'21
+    name: "2nd International Conference on Robotics, Electrical and Signal Processing Techniques"
+    url: https://www.aiub.edu/2nd-icrest21-at-aiub-starts
+iced20:
+    acronym: ICED'20
+    name: "Proceedings of the 5th International Conference on Electronic Design"
+    url: https://iopscience.iop.org/issue/1742-6596/1755/1
+inecce19:
+    acronym: InECCE'19
+    name: "Proceedings of the 5th International Conference on Electrical, Control and Computer Engineering"
+    url: https://link.springer.com/book/10.1007/978-981-15-2317-5
+ecce19:
+    acronym: ECCE'19
+    name: "Proceedings of the 2nd International Conference on Electrical, Computer and Communication Engineering"
+    url: https://ieeexplore.ieee.org/xpl/conhome/8672433/proceeding
+nsyss17:
+    acronym: NSysS'17
+    name: "Proceedings of the 2nd International Conference on Networking, Systems and Security"
+    url: https://ieeexplore.ieee.org/xpl/conhome/7879538/proceeding
