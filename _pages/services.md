@@ -8,5 +8,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.services%}
-  {% include archive-single.html %}
+  {% include teaching-single.html %}
 {% endfor %}
