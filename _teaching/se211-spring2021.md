@@ -25,5 +25,5 @@ Classes
 * CLO4: Translate abstract concepts into Classes in software
 * CL05: Present and defend technical aspects of object oriented software development
 
-[GitHub Code Repo](https://github.com/mahemon/SE-211-Object-Oriented-Concepts){:target="_blank"}
+[GitHub Code Repo](https://github.com/mahemon/SE-211-Object-Oriented-Concepts)
 
