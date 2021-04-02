@@ -11,5 +11,5 @@ author_profile: true
 
 
 * [SE 211 - Object Oriented Concepts - Fall 2020, Spring 2021](se211){:style="color: #52adc8;"}
-* [SE 321 - Software Engineering Web Application - Fall 2020, 2021](se321){:style="color: #52adc8;"}
+* [SE 321 - Software Engineering Web Application - Fall 2020, Spring 2021](se321){:style="color: #52adc8;"}
 * SE214 - Algorithm Design and Analysis - Fall 2020
