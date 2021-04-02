@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am an Assistant Professor in the [Software Engineering Department](https://faculty.daffodilvarsity.edu.bd/profile/swe/anwar-hossen.html){:target="_blank"} at the [Daffodil International University](https://daffodilvarsity.edu.bd/){:target="_blank"}. My research interests are in Computer Vision, Machine Learning, and Intelligent System Design. Research focuses on AI in Health Care: Assistive Technology, Mobile Sensor, HAR and Gait, Service Oriented Architecture.
+Hi there! I am an Assistant Professor in the Department of [Software Engineering](https://faculty.daffodilvarsity.edu.bd/profile/swe/anwar-hossen.html){:target="_blank"} at the [Daffodil International University](https://daffodilvarsity.edu.bd/){:target="_blank"}. My research interests are in Computer Vision, Machine Learning, and Intelligent System Design. Research focuses on AI in Health Care: Assistive Technology, Mobile Sensor, HAR and Gait, Service Oriented Architecture.
 
 I obtained my Bachelor of Science and Master of Science in Computer Science and Engineering from the [Jagannath University, Dhaka, Bangladesh](http://www.jnu.ac.bd/){:target="_blank"} in 2015 and 2017 respectively. 
 
