@@ -10,6 +10,6 @@ Phone: (880)-171-7976009
 Department of Software Engineering  
 Faculty of Science and Information Technology
 Daffodil International University
-102/1, Sukrabad Mirpur Rd
+102/1, Sukrabad, Mirpur Road
 Dhaka 1207, Bangladesh 
 
