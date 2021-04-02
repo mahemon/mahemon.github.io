@@ -9,7 +9,7 @@ author_profile: true
 * **A Web Based Four-Tier Architecture using Reduced Feature Based Neural Network Approach for Prediction of Student Performance** ([26-2019-2020](http://ims.ictd.gov.bd/public/uploads/Innovation_Fund_List_for_IMS_10.03.2021.pdf){:target="_blank"})
 
 	 **Agency**: ICT Innovation Foundation, ICT Division, Minister of Post and Telecommunication in the Government of Bangladesh.
-	 **PIs**: Oscar Chaparro
+	 **PIs**: Md Anwar Hossen
 	 **Dates**: Jan 1, 2020 - Dec 31, 2020
 
 
